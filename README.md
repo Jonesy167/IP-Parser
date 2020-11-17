@@ -1,6 +1,6 @@
 # IP-Parser
 Parses files for IP V4 IP addresses and outputs to text file.
-Useage ip_parser.sh -i <input file> -o <output file> -d <delimeter> (delimeter can be set to 1 for ',' 2 for ', ' 3 for new line)
+Useage ip_parser.sh -i input file -o output file -d delimeter (delimeter can be set to 1 for ',' 2 for ', ' 3 for new line)
 
 Example output -d 1:
 3.136.0.0,52.94.248.192,3.5.144.0,52.94.248.112,
